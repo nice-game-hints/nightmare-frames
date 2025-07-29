@@ -1,9 +1,5 @@
 ---
-title: A Great Example
-keywords: great example, spoiler free guide
-author: Juho Rutila
-praise: https://www.buymeacoffee.com/jrutila
+title: Nightmare Frames
 ---
 
-A Great Example is the latest and coolest point'n'click game to make example guides of.
-This text is shown to the readers when they got to the Great Example NGH page.
+Nightmare Frames is a supernatural thriller where you'll step into the shoes of Alan Goldberg, in the search for the scariest horror film of all time. An enthralling journey through the streets of the Hollywood of the 80s, a small haunted town, and even Hell itself.
